@@ -1,35 +1,11 @@
-# Code Refactor Starter Code
-# Foobar
+# Refactor Starter Code for Horiseon 
 
-Foobar is a Python library for dealing with word pluralization.
+* Refactor the code with semantic elements
+* Add relevent alt tags to images
+* Ensure links function correctly
+* Consolidate and organize CSS selectors to follow semantic structure
+* Add comments to the CSS file
 
-## Installation
+![Alt text](C:\Users\jerem\OneDrive\desktop\Projects\horiseon\assets\images\screencapture-jeremyodaniel-github-io-horiseon-2021-11-21-22_49_59.png)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[https://jeremyodaniel.github.io/horiseon/](https://jeremyodaniel.github.io/horiseon/)
